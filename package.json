@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Blank website using gulp and some blank files, use for templating.",
   "main": "index.js",
-  "author": "bo1g",
-  "repository": "https://github.com/bo1g/gulp-webdev-templates",
+  "author": "rekyuu",
+  "repository": "https://github.com/rekyuu-web/nodejs-gulp-templates",
   "license": "MIT",
   "devDependencies": {
     "coffee-script": "^1.10.0",
